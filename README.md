@@ -31,11 +31,11 @@ The following are criteria for a frequency distribution to be a binomial distrib
 
 # Program
 
-# DEVELOPED BY
+### DEVELOPED BY
 
-# REGISTER NUMBER : 212220230038
+### REGISTER NUMBER : 212220230038
 
-# NAME :  PRIYADARSHINI R
+### NAME :  PRIYADARSHINI R
 
 ```python3
 
