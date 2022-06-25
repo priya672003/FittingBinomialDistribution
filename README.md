@@ -1,4 +1,8 @@
-# Fitting Binomial Distribution
+### EX.NO : 01
+
+### DATE : 
+
+# <p align="center"> Fitting Binomial Distribution </p> 
 
 # Aim : 
 
@@ -65,6 +69,7 @@ else:
 
 
 # Output : 
+
 ![image](https://user-images.githubusercontent.com/81132849/168961349-57b83218-d539-4ace-a13a-6272dd9cba18.png)
 
 # Result :
